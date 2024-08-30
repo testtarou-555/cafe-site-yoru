@@ -1,0 +1,43 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-noto-sans-jp: "Noto Sans JP";
+  --font-roboto: Roboto;
+  --font-lexend: Lexend;
+  --font-manrope: Manrope;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-lgi: 19px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-whitesmoke: #f3f4f6;
+  --color-darkslategray: #374151;
+  --color-white: #fff;
+  --color-gray-100: rgba(0, 0, 0, 0.4);
+  --color-darkorange: #f78c0d;
+  --color-slategray: #6b7280;
+  --color-black: #000;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-base: 16px;
+  --gap-12xs-5: 0.5px;
+
+  /* Paddings */
+  --padding-10xs: 3px;
+  --padding-21xl: 40px;
+  --padding-16xl: 35px;
+  --padding-10xl: 29px;
+  --padding-22xl: 41px;
+  --padding-xl: 20px;
+  --padding-7xl: 26px;
+  --padding-11xs: 2px;
+}
